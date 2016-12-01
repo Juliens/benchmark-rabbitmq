@@ -1,0 +1,5 @@
+rabbitmq_uri="amqp://guest:guest@127.0.0.1:5672/"
+consumercount=1000
+connectioncount=760
+channelcount=2320
+exchangecount=6
